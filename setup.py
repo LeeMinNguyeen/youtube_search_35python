@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name="youtube-search-3.5",
+    name="youtubesearch",
     version="2.1.2",
     description="Perform YouTube video searches without the API",
     long_description=README,
